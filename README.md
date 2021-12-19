@@ -1,5 +1,9 @@
 # The Step Keyboard Layout
 
+
+
+
+# Introduction
 The QWERTY keyboard placed the most commonly used keys far away from each other to prevent typewriter jams.  The Step Keyboard Layout is designed with less typing
 effort in mind, designed for a comfortable typing experience in English and Chinese Pinyin.
 
