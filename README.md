@@ -1,6 +1,6 @@
 # The Step Keyboard Layout
 
-
+<img width="957" alt="LayoutImage" src="https://user-images.githubusercontent.com/64727620/146663360-1c9bcc4e-926d-4138-995b-6f51f7a99f82.png">
 
 
 # Introduction
@@ -21,4 +21,12 @@ movement from your arms and wrists, which ultimately reduces the risk of resulti
 Utilizing the weaker fingers often will make typists tired quickly. Step reduces the load on the weaker fingers and prioritizes stronger  fingers for most
 of the typing.
 
+# Download and Installation
+Unfortunately, the Step layout is now only avaliable for Mac. If you use a Windows PC, you can create the keyboard layout yourself by using the Microsoft Keyboard Layout creator. Download Microsoft Keyboard Layout Creator (MSKLC) here:
+download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe
 
+
+Mac installer (DMG):
+[Step Installer Disk Image.dmg.zip](https://github.com/WindowsLabSystems/stepkblayout.github.io/files/7740286/Step.Installer.Disk.Image.dmg.zip)
+
+The Step Keyboard Layout still needs to perfect. If you have any modifications to make the layout better, let me know! Thanks!
