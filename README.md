@@ -23,7 +23,8 @@ of the typing.
 
 # Download and Installation
 Unfortunately, the Step layout is now only avaliable for Mac. If you use a Windows PC, you can create the keyboard layout yourself by using the Microsoft Keyboard Layout creator. Download Microsoft Keyboard Layout Creator (MSKLC) here:
-download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe
+
+https://download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe
 
 
 Mac installer (DMG):
