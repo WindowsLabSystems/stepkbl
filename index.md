@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# The Step Keyboard Layout
 
-You can use the [editor on GitHub](https://github.com/WindowsLabSystems/stepkblayout.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img width="957" alt="LayoutImage" src="https://user-images.githubusercontent.com/64727620/146663360-1c9bcc4e-926d-4138-995b-6f51f7a99f82.png">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Introduction
+The QWERTY keyboard placed the most commonly used keys far away from each other to prevent typewriter jams.  The Step Keyboard Layout is designed with less typing
+effort in mind, designed for a comfortable typing experience in English and Chinese Pinyin.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Finger travel and the usage of the two middle columns
+Typing some of the basic words on QWERTY requires a lot of movement, including lateral and diagonal movement. On Dvorak and Colemak, it's way more comfortable and 
+achieves significantly less finger travel, but still requires a bit of lateral and diagonal movement. The Step keyboard layout is designed to reduce finger travel 
+while also reduces lateral and diagonal movement. 
 
-```markdown
-Syntax highlighted code block
+Step is also designed with less keystrokes on the middle columns as possible in mind. QWERTY has heavy reliance on the middle two columns with the T, H, Y and N, 
+which are pretty frequent keys. Dvorak has I, D, F, Y on the middle two columns and Colemak has D, H on the middle columns. The heavy reliance on the middle 
+columns means that you need to twist your wrists often which can be bad for your arms and wrists. Step only has K and punctuation on the middle columns so it requires less lateral 
+movement from your arms and wrists, which ultimately reduces the risk of resulting in some repetitive motion injuries.
 
-# Header 1
-## Header 2
-### Header 3
+# Reduced load on the weaker fingers
+Utilizing the weaker fingers often will make typists tired quickly. Step reduces the load on the weaker fingers and prioritizes stronger  fingers for most
+of the typing.
 
-- Bulleted
-- List
+# Download and Installation
+Unfortunately, the Step layout is now only avaliable for Mac. If you use a Windows PC, you can create the keyboard layout yourself by using the Microsoft Keyboard Layout creator. Download Microsoft Keyboard Layout Creator (MSKLC) here:
+download.microsoft.com/download/6/f/5/6f5ce43a-e892-4fd1-b9a6-1a0cbb64e6e2/MSKLC.exe
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Mac installer (DMG):
+[Step Installer Disk Image.dmg.zip](https://github.com/WindowsLabSystems/stepkblayout.github.io/files/7740286/Step.Installer.Disk.Image.dmg.zip)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WindowsLabSystems/stepkblayout.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The Step Keyboard Layout still needs to perfect. If you have any modifications to make the layout better, let me know! Thanks!
